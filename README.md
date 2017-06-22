@@ -1,8 +1,8 @@
-# QinDiff
+﻿# QinDiff
 
 A web version text diff and merge tool.
 
-![alt QinDiff](doc/screenshots/main.png)
+![alt QinDiff](doc/screenshots/QinDiff.png)
 
 This tool shows the algorithm (Dynamic Programming) to solve the [Longest common subsequence problem](https://en.wikipedia.org/wiki/Longest_common_subsequence_problem).
 
